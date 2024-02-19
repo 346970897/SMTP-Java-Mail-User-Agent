@@ -17,3 +17,4 @@ SMTPConnection.java workflow logic:
 
 Added Commands and (Replies):
 DATA(354), HELO (250), MAIL FROM (250), QUIT (221), RCPT TO (250) 
+6666
